@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Welcome to Richyy World
+![image](https://user-images.githubusercontent.com/129083432/227984712-716b4bdc-65ba-433b-a5f2-fc9fff60a698.png)
 
 <!--
 **Richyyy13/Richyyy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
